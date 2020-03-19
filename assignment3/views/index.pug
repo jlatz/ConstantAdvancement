@@ -1,0 +1,13 @@
+doctype html
+html
+  head
+    title Animals Project
+  body
+    h1 #{title}
+  
+    div.animalSelect
+      form(action='/animalOpt' method='post')
+        select(name='animalDropDown', id='dropDown')
+          each animal in animalArr
+            option(animal=(animal.name)) #{animal.name}
+          input(type='submit', value='Submit')

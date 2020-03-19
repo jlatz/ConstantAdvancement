@@ -1,0 +1,18 @@
+Assignment 1 Create 2 files, an html file, and a JS file that on load of the HTML file, 
+dynamically creates a div, inside that div a select box with 10 values.
+ 1-10 that display types of animals. When the user selects a value, 
+it should print out to the right of the select box a description of that animal. 
+The expectations are that the animals is a javascript object and the select box represents an array of Animals.
+
+10 animals
+Lion
+Giraffe
+Koala
+Orca whale
+Emperor Penguin
+Polar Bear
+Bald Eagle
+Komodo Dragon
+Alpaca
+Artic Wolf
+

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name":"Lion",
+    "description": "The world's most social felines, lions roam the savannas and grassland of the African continent. Lions have strong, compact bodies and powerful forelegs, teeth and jaws for pulling down and killing prey."
+  },
+  {
+    "id": 2,
+    "name":"Giraffe",
+    "description": "The tallest mammals on Earth, Giraffes legs alone are taller than many humans - about 6 feet. They can run as fast as 35 miles an hour, or cruise at 10mph over long distanes."
+  },
+  {
+    "id": 3,
+    "name":"Koala",
+    "description": "Koalas can only live in one place in the world, Australia. They are well known for their large round head, big furry ears and black nose. These fuzzy animals are about 3 feet long and weight 10 pounds."
+  },
+  {
+    "id": 4,
+    "name":"Orca Whale",
+    "description": "The largest member of the Dolphin family, Orcas aka killer whales, are easily distinguished by their black-and-white coloration. Being carnivors, they primarily prey upon seals, sea lions, and even other whales."
+  },
+  {
+    "id": 5,
+    "name":"Emperor Penguin",
+    "description": "The Emperor penguin is the tallest and heaviest of all living penguin species. These fightless animals live on Antartic ice and in the frigid surrounding waters. They are recognizable by their black heads and back, white bellies with yellow trim around the neck."
+  },
+  {
+    "id": 6,
+    "name":"Polar Bear",
+    "description": "Polar bears are stocky, with a long neck, relatively small head, short rounded ears, and a short tail. Their broad feet have hairy soles to protect and insulate as they move across the ice. They also have storng sharp claws for digging through ice and killing prey."
+  },
+  {
+    "id": 7,
+    "name":"Bald Eagle",
+    "description": "The only eagles solely native to North Amemrica, the bald eagles commonly live inland along rivers and large lakes. Both male and female are dark brown, with a white head and tail. The only yellow on them is their beak, eyes, and feet."
+  },
+  {
+    "id": 8,
+    "name":"Komodo Dragon",
+    "description": "Reaching 10 feet in length and weighing more than 300 pounds, Komodo dragons are the heaviest lizards on Earth. They have long, flat heads with rounded snouts, scaly skin, bowed legs, and huge, muscular tails."
+  },
+  {
+    "id": 9,
+    "name":"Alpaca",
+    "description": "Most known for spitting on people, Alpacas have long legs, long necks, long ears, and weigh about 130 pounds. Their fur is long and dense, and varies in color from white to black, and many different shades of brown or tan."
+  },
+  {
+    "id": 10,
+    "name":"Artic Wolf",
+    "description": "Artic wolves have dense white fur, which helps keep them insulated and blend in with the snowy environment around them. Compared to other subspecies of wolves, they have smaller ears, shorter legs, and smaller muzzles."
+  }
+]
